@@ -2,7 +2,7 @@
 
 L'entreprise KitchGestio souhaite créer une application permettant à des organisations de gérer les stocks, les menus ainsi que les commandes de cuisines de collectivité dont elle a la charge.
 <div align="center">
-    <img src="./project-logo/logo_kitchgestio.png" alt="logo KitchGestio" />
+    <img src="./img/logo_kitchgestio.png" alt="logo KitchGestio" />
 </div>
 
 ## Expression des besoins
@@ -43,3 +43,8 @@ L'entreprise KitchGestio souhaite créer une application permettant à des organ
 - Frontend : ReactJS
 - Backend : Laravel
 - Base de données : SQL Server
+
+## Diagramme d'Architecture
+<div align="center">
+    <img src="./img/diagramme_architecture.png" alt="Diagramme architecture" />
+</div>
