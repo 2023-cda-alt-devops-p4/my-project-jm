@@ -48,3 +48,6 @@ L'entreprise KitchGestio souhaite créer une application permettant à des organ
 <div align="center">
     <img src="./img/diagramme_architecture.png" alt="Diagramme architecture" />
 </div>
+
+## Contributeur
+[Jonathan Moreschi](https://github.com/Eromnoj)
