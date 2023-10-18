@@ -43,6 +43,8 @@ L'entreprise KitchGestio souhaite créer une application permettant à des organ
 - Frontend : ReactJS
 - Backend : Laravel
 - Base de données : SQL Server
+- Container : Docker
+- Gestion de projet : Trello
 
 ## Diagramme d'Architecture
 <div align="center">
